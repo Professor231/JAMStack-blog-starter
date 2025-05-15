@@ -5,9 +5,6 @@ backend:
 media_folder: "public/assets/blog" # where uploaded images are stored
 public_folder: "/assets/blog" # how images are accessed in the frontend
 
-media_library:
-  name: default
-
 collections:
   - name: "blog"
     label: "Blog"
