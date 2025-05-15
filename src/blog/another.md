@@ -1,5 +1,5 @@
 ---
-title: My Fifth Article
+title: Yet Another Article
 author: James O. Gaygay
 image: /assets/blog/article-5.jpg
 imageAlt: This is a test
